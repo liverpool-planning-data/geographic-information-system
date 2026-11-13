@@ -31,7 +31,7 @@
 - [local-authority-district](https://liverpool-planning-data.github.io/geographic-information-system/local-authority-district/)
 - [local-nature-reserve](https://liverpool-planning-data.github.io/geographic-information-system/local-nature-reserve/)
 - [local-plan-boundary](https://liverpool-planning-data.github.io/geographic-information-system/local-plan-boundary/)
-- [local-planning-authority](https://liverpool-planning-data.github.io/geographic-information-system/local-planning-authority/)
+- [local-planning-authority](https://github.com/liverpool-planning-data/geographic-information-system/tree/main/local-planning-authority)
 - [local-resilience-forum-boundary](https://liverpool-planning-data.github.io/geographic-information-system/local-resilience-forum-boundary/)
 - [locally-listed-building](https://liverpool-planning-data.github.io/geographic-information-system/locally-listed-building/)
 - [national-nature-reserve](https://liverpool-planning-data.github.io/geographic-information-system/national-nature-reserve/)
